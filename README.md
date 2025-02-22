@@ -1,4 +1,6 @@
 <!-- Zombie Politics -->
+<h1>250 years of Zombie Politics in America</h1>
+<h2>minus perhaps 50 years</h2>
 🧟
 <h6>1776-2025</h6>
 <h6>Brian Bauska (2025)</h6>
